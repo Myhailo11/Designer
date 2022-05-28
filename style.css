@@ -3,7 +3,7 @@
   margin: 0;
 }
 .hero {
-  background-color: #d8f4f5;
+  background-color: #5db1b4;
   padding: 15px;
   max-width: 1000px;
   width: 100%;
@@ -26,7 +26,7 @@
   width: 250px;
 }
 .hero__item {
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(173, 65, 65, 0);
   margin-bottom: 35px;
   height: 70px;
   display: flex;
